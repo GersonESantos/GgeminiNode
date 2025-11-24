@@ -1,5 +1,5 @@
 import express from 'express';
-import clientGemini from '.gemini.js';
+import clientGemini from './gemini.js';
 import path from 'path';
 import { fileURLToPath } from 'url';
 
